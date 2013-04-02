@@ -1,6 +1,10 @@
 *.class
-
+libs
+gen
+bin
 # Package Files #
 *.jar
 *.war
 *.ear
+*.project
+*.classpath
